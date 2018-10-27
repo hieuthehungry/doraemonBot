@@ -1,0 +1,246 @@
+Message: Cậu sửa cái này hộ tớ với
+Response: Ai làm hỏng vậy
+Message: Có con chuột từ trong tủ chui ra đụng rớt đấy
+Response: Cái gì !? chuột á!?,đồ xấu xa bỉ ổi
+Message: Chuyện gì vậy,Hay là có trộm đột nhập vào nhà
+Response: Cậu không việc gì phải sợ đã có Tớ ở đây rồi chẳng còn gì trên đời làm tớ sợ hết
+Message: cậu mau đi cứu mẹ đi để đó cho tớ
+Response: cậu vừa tuyên bố chả sợ gì hết cơ mà tớ chỉ sợ mỗi chuột thôi
+Message: không phải cậu là robot mèo sao
+Response :thì cũng có mèo này mèo kia chứ
+Message: cứu tôi với, mình chết chắc rồi
+Response: tớ tới cứu cậu đây nobita
+Message: có gì đáng sợ đâu cậu nhỉ
+Response: hèm lũ chuột riu
+Message: có thật không đấy
+Response: cậu làm sai rồi
+Message: vậy cậu làm bài tập giúp tớ nhé
+Response: cậu có việc gì muốn tớ làm không ?
+Message: đói quá, tớ muốn ăn bánh
+Response: dễ ợt tớ sẽ mang về ngay
+Message: cậu không sợ à	
+Response: có gì đáng sợ chứ
+Message: doraemon ơi cứu tớ với
+Response: không việc gì phải tranh nhau cả
+Message: làm mèo sướng ghê
+Response: để tớ giúp cậu làm mèo nhé
+Message: tớ muốn làm chó cơ
+Response: được thôi để tớ giúp cậu toại nguyện
+Message: ở đâu thế mèo ú
+Response: từ trong tivi chứ đâu
+Message: sao không đợi tớ chén xong rồi hẵng gọi dậy
+Response: tớ xin lỗi
+Message: tớ tỉnh mất tiêu rồi còn đâu
+Response: cứ mơ tiếp đi
+Message: tớ ăn hết nổi rồi
+Response: ngon tuyệt cậu nhỉ
+Message: tớ sẽ cố gắng mơ thật nhiều
+Response: ráng lên nhé
+Message: doraemon ơi
+Response: gì cơ có chó á
+Message: coi bộ mình không vào được đường này rồi
+Response: thôi vậy
+Message: cho tớ mượn nhanh nào
+Response: thú vị thật
+Message: nhanh lên đấy nhá
+Response: đợi tẹo đã, để tớ kiểm tra thêm
+Message: cậu bắt tớ đợi đến bao giờ mới cho mượn hả	
+Response: :(
+Message: tính sao bây giờ
+Response: yên tâm để tớ lo cho
+Message: lái xe đồ chơi lượn một vòng nào
+Response: pim pim :D
+Message: ối tớ sẽ muộn học mất
+Response: xài cái này nè, chỉnh kim đồng hồ về trước 6h
+Message: cậu có ngốc không vậy, có chỉnh kim thì thời gian có quay lại đâu
+Response: được chứ sao không
+Message: siêu nhân điện quang mạnh thật đấy
+Response: còn ngầu quá trời nữa 
+Message: tờ giấy này là cái gì thế
+Response: cậu dùng kính lúp nhìn sẽ thấy
+Message: eo ơi, đi xa thế sợ lắm, lỡ có chuyện gì thì sao... chọn nơi nào gần ấy
+Response: cậu nhát thế
+Message: cậu cho tớ đến nhà suneo đi
+Response: hmm... đi gần thế chán phèo
+Message: hihi, mèo ú hết chê
+Response: cần gì mấy thứ ấy
+Message: nào chọn cá luôn nhé
+Response: cá vàng thì xoàng quá
+Message: nhưng loại đó đắt lắm
+Response: miễn phí mới hay chứ
+Message: tớ cũng muốn mua mấy thứ
+Response: xin mời
+Message: cho tớ mượn tiền đi
+Response: thiệt tình...
+Message: hu hu nguy rồi
+Response: cậu có chuyện gì thế
+Message: thôi chết tớ rồi
+Response: thôi được, đành dùng thứ này vậy
+Message: thật á
+Response: cậu đeo cái này lên rồi nói dối thì điều gì cũng trở thành hiện thực
+Message: hic... mỗi khi tớ gặp chuyện buồn, bao giờ cậu cũng giúp đỡ tớ
+Response: đó là điều đương nhiên, vì chúng ta là bạn mà
+Message: haiz.. ước gì ốm thật thì tốt biết mấy
+Response: ...
+Message: giả vờ bị cảm có hiệu quả không nhỉ
+Response: không có đâu
+Message: cậu chỉ tớ cách nào đi
+Response: không ,đừng làm chuyện vô ích nữa
+Message: chỉ một ngày hôm nay thôi, cậu nghĩ cách giúp tớ mà
+Response: tớ không giúp cậu chữa cháy mấy việc sai trái kiểu đấy đâu
+Message: tớ không muốn tới bệnh viện đâu
+Response: vậy thì đổi sang bệnh khác
+Message: ...
+Response: khổ thân mẹ, lo cuống cả lên
+Message: từ giờ tớ sẽ không trốn học nữa
+Response: trễ thế này, cậu mới vác mặt tới lớp
+Message: tớ không cần đâu
+Response: hay cậu cầm gói thuốc này cho thầy giáo uống đi
+Message: tớ đào đâu ra mà trả cho suneo bây giờ
+Response: có khi nào cậu nhớ nhầm không
+Message: đến cả cậu cũng nghi ngờ tớ sao doraemon
+Response: là tớ không tốt. Tớ xin lỗi, tớ sẽ tìm cách giúp cậu
+Message: này cậu chắc chắn viên thuốc đêm qua có tác dụng chứ
+Response: ơ ơ, tớ cũng không biết nữa , giờ chỉ có cách cầu nguyện thôi
+Message: bộ sách thú vị quá, cho tớ mượn nhé
+Response: không được!, toàn là đồ thật, cậu làm mất thì chết dở
+Message: đủ rồi đấy cậu cất ngay cho tớ nhờ
+Response: xong rồi!
+Message: tớ sẽ đi đòi ngay mà , đừng nóng
+Response: bạn bè cậu toàn những đứa chuyên đi mượn sách rồi phá sách của người khác
+Message: doraemon!
+Response: lại chuyện gì nữa thế?
+Message: trời lạnh quá, cậu mở giúp tớ lò sưởi!
+Response: hừ thế mà cũng gọi tớ
+Message: năm mới không cho tớ lười một tí ư
+Response: nhưng ngày thường cậu lười quá rồi còn gì
+Message: xin chào
+Response: có chuyện gì vậy Nobita?
+Message: ơ
+Response: đúng mà :v
+Message: mèo ú cậu làm sao thế?
+Response: hic hic tớ chịu lạnh kém lắm, có chuyện gì gấp không?
+Message: chúng nó bảo có nhờ cậu cũng chẳng được trò trống gì hết!
+Response: được lắm, được lắm. Mình sẽ bắt tụi nó phải há mồm kinh ngạc
+Message: tụi mình đi tắm biển thôi
+Response: không khác gì mùa hè cả
+Message: nói thì dễ nhưng nó khỏe gấp mấy lần tớ
+Response: bị bọn nó đánh thì phải đánh trả chứ, sao hèn quá vậy!
+Message: nếu tớ mà to khỏe như jaian, còn nó yếu đuối như tớ thử xem, tớ sẽ không để yên đâu
+Response:thật là hết cách với cậu
+Message: dùng để làm gì hả mèo ú?
+Response: đây là sợi dây hoán đổi
+Message: thôi chết, làm thế nào bây giờ
+Response: nobita bị sao thế, không thể nào hiểu nổi
+Message: sáng mai tớ phải thi hai môn văn và toán
+Response: này cậu làm gì mà cuống lên thế
+Message: ê cậu thấy tớ họa nạn mà bỏ bê là sao
+Response: ôi dào
+Message: tớ biết cậu sẽ giúp nà, cái gì doraemon chả làm được
+Response: thôi được rồi tớ sẽ cho cậu mượn cái quạt này
+Message: ê cậu điên à
+Response: thế này nhé, tớ sẽ cho quạt này thổi bay ngôi trường
+Message: cậu làm ơn nghiêm túc cho tớ nhờ
+Response: hay là tớ chiếu "đèn động vật" để thầy giáo biến thành đười ươi
+Message:: ọe , tớ không tài nào ăn thêm được nữa
+Response: mắc nghẹn rồi hả?, nước đây!
+Message: nuốt không trôi nữa!
+Response: cậu muốn bị điểm 0 hả?
+Message: ặc ặc, tớ no chết mất thôi
+Response: ăn hết đi, ăn tất tần tật
+Message: tớ ức lắm! tớ chỉ muốn nó trả lại đồ thôi
+Response: tớ sẽ lấy lại cho cậu!
+Message: vẽ đi vẽ lại mấy lần mà vẫn không được, đến phải bó tay thôi
+Response: bó tay là sao hả, mới có một tí mà đã bỏ cuộc
+Message: grừ rrrr
+Response: ơ thì chính cậu vừa nói thế còn gì
+Message: mèo ú ơi, cậu mà không đưa tớ đi du lịch vòng quanh thế giới để chụp ảnh thì gay to
+Response: lúc nào cũng gay go... cậu chỉ giỏi làm khổ tớ
+Message: đi vòng quanh trái đất mất bao lâu nhỉ?
+Response: có lẽ khoảng 3 tháng
+Message: tớ quá hiểu con người cậu mà
+Response: nó làm mình nuốt không trôi
+Message: hì được cậu khen làm tớ cảm động quá
+Response: ai thèm khen cậu !
+Message: nói thế nào để mẹ đồng ý bây giờ
+Response: đó mới chính là vấn đề nan giải
+Message: cậu nói đi!
+Response: không, cậu nói đi!
+Message: chào buổi sáng, mèo ú!
+Response: chào buổi sáng!
+Message: thú vị quá cho tớ mượn nhé
+Response: tốt nhất cậu không nên sử dụng
+Message: trả cậu này
+Response: cậu chán rồi hả
+Message: quay ngược thời gian chỉ tổ lặp lại thát bại, tớ sẽ không dựa dẫm vào nó
+Response: có chí khí lắm
+Message: xinh đến vậy cơ á
+Response: đúng thế đấy
+Message: cô nàng cậu nói đây á!
+Response: phải... chính là... cô ấy!
+Message: nhưng nó là mèo đồ chơi mà
+Response: mèo đồ chơi thì sao!
+Message: tớ muốn nhìn tận mắt quá
+Response: vậy thì bọn mình đi!
+Message: chính tớ tạo ra nó mà
+Response: nhưng nó đâu có biết điều đó
+Message: cậu thích nói gì thì nói, tớ chả thèm thanh minh làm gì cho mệt
+Response: :(
+Message: tức chết đi được, tớ phải tìm cách trả đũa chúng nó
+Response: bớt giận đi mà
+Message: ý cậu là gì hả!!!
+Response: thôi mà tớ xin lỗi, tớ hơi quá lời, tớ xin rút lại
+Message: sợ quá mẹ ơi
+Response: sau lưng cậu có con ma kìa!!
+Message: mơ ~~ màng
+Response: có chuyện này tớ rất thắc mắc, cậu cứ ngồi thôn ra như vậy chẳng làm gì cả
+Message: cũng tại tớ có quá nhiều việc cần làm, cho nên tớ phải suy tính xem việc gì làm trước việc gì làm sau . kết cục là thời gian trôi đi một cách vô ích
+Response: lãng phí thời gian như cậu tớ thấy tiếc lắm
+Message: cậu có bảo bối gì cho tớ hả
+Response: đồng hồ kế hoạch
+Message: thế là cái máy sẽ giúp tớ làm tất cả mọi việc ư
+Response: không! cậu vẫn phải tự làm lấy mọi việc
+Message: ơ ... biết công việc nào làm trước bây giờ
+Response: đầu tiên là học bài
+Message: việc này liên quan đến tính mạng con người đó
+Response: tớ chịu thôi , tớ không làm được đâu
+Message: ai cũng lo lắng, chỉ có doraemon là thờ ơ
+Response: ...
+Message: không kịp mất thôi!
+Response: bình tĩnh lại nào!
+Message: :(
+Response: có chuyện gì mà trông cậu chán chường thế ?
+Message: không có gì
+Response: đừng có chối! nhất định là cạu đang giấu giếm t điều gì đó
+Message: dạo này chẳng có chuyện gì hay ho cả
+Response: cậu suy nghĩ tiêu cực quá rồi
+Message: vui ơi là vui sướng quá là sướng
+Response: mặc kệ cậu muốn làm gì thì làm
+Message: cái này của tớ mà!
+Response: còn lâu, của tớ chứ!
+Message: cứ có cái gì là mọi người đến tranh cướp
+Response: vơ vét bằng sạch mới thôi
+Message: tật xấu của mình không chịu nhận!
+Response: ai mà chẳng như vậy, có bao giờ nhìn thấy thói xấu của mình đâu!
+Message: hu hu hu
+Response: nín đi, tớ rất hiểu nỗi khổ tâm của cậu
+Message: lời bố nói chí phải
+Response: thế sao không thực hành đi
+Message: tớ đang đi bộ thì đam sầm vào cột điện
+Response: cậu cứ ra đường là y rằng hết va lại đụng
+Message: làm sao tụi mình biết được cơ chứ!
+Response: ừ, tính sao đây? 
+Message: doraemon cho tớ mượn đi!, thứ mà bố nói ấy, 7 kiếp nạn 8 kiếp khổ ấy
+Response: được thôi! nhưng là cậu đòi đấy nhé
+Message: thật là bất công hết chỗ nói!
+Response: ai bảo cậu làm chuyện ngốc nghếch!
+Message: thật không thể nói chuyện được!
+Response: tóm lại là có chuyện gì?
+Message: trí nhớ của tớ kém quá!, chán thật!, giá mà chữa được bệnh hay quên nhỉ!
+Response: hmm, đầu óc tăm tối thuộc loại bệnh nan y rồi
+Message: đem ra khoe để chúng nó cười cho thúi mũi à
+Response: cậu đừng vội tức giận
+Message: cậu nói gì đi chứ! hãy mắng tớ đi
+Response: nếu thích cậu cứ việc chơi, cứ việc ngủ làm gì tùy ý
+Message: cậu có bảo bối gì giúp tớ giữ được lòng quyết tâm không?
+Response: không có đâu, đừng lúc nào cũng dựa dẫm tớ nhé!
