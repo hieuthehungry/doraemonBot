@@ -18,3 +18,4 @@
 
 # Enjoy! 🤭
 
+![](https://raw.githubusercontent.com/d0betga1/doraemonBot/master/Screenshot%20from%202018-10-27%2016-38-15.png)
