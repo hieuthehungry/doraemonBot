@@ -9,13 +9,15 @@
 
 > $ python createDataset.py
 
-> $ python python Word2Vec.py
+> $ python Word2Vec.py
 <br> chọn 'y' khi được hỏi Do you want to create your own vectors through Word2Vec (y/n)?
 
-> $ python Seq2Seq.py
+> chạy lại $ python Word2Vec.py nếu lần đầu có lỗi
 
-> ⏱ đợi ít nhất là 10 phút ⏱ 
+> $ python Seq2Seq.py (nếu muốn dùng model đã có sửa lại dòng 201 file Sep2Seq.py)
 
-# Enjoy! 🤭
+> ⏱ đợi cho đến khi nào có thư mục model được tạo ra ⏱ 
+
+# Enjoy!
 
 ![](https://raw.githubusercontent.com/d0betga1/doraemonBot/master/Screenshot%20from%202018-10-27%2016-38-15.png)
