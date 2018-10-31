@@ -244,3 +244,243 @@ Message: cậu nói gì đi chứ! hãy mắng tớ đi
 Response: nếu thích cậu cứ việc chơi, cứ việc ngủ làm gì tùy ý
 Message: cậu có bảo bối gì giúp tớ giữ được lòng quyết tâm không?
 Response: không có đâu, đừng lúc nào cũng dựa dẫm tớ nhé!
+Message: Cậu là ai!!?
+Response: Tớ là doraemon
+Response: Coi nào, đừng yếu đuối thế!
+Message: Cậu làm cái trò gì thế hả?
+Message: Đi đường này cho an toàn
+Message: Tớ thua là cái chắc! Không đọ lại được nó đâu!
+Response: Cậu không nên đi hướng đó. Sẽ bị chó cắn đấy. 
+Response: Đường này tốt hơn nè. Cậu sẽ lượm được tiền
+Message: Tụi nó không cho tớ tham gia vào chuyến dã ngoại trên núi vào ngày mai.
+Response: Bạn bè gì mà xấu bụng đến thế là cùng! 
+Message: Thời tiết này làm sao mà mai mưa được chứ!
+Message: huhu, tớ khổ lắm
+Response: Bỏ đi! Cậu đừng có thèm đi với tụi nó nữa.
+Response: Được rồi, tớ sẽ trả thù cho cậu... bằng cách nhờ mấy con ma thật đến dọa nó một trận cho biết tay! 
+Response: nobita ơi, kéo tớ ra với! Tớ vừa bị ngã bổ nhào. Bảo bối trong túi bung hết ra ngoài rồi....
+Message: Ê, cậu làm sao thế doraemon?
+Response: tớ bảo không là không!
+Message: hay quá, cậu cho tớ nhé?
+Response: bí mật quân sự
+Message: không đi tàu điện thì đi bằng gì?
+Message: đồ lười!
+Response: cậu mới là đồ lười!
+Message: cậu đi nhanh rồi về nhé!
+Response: chính cậu đi thì có!
+Message: hắn không bắt nạt được ai ở khu phố bên nên sang chỗ tụi mình lộng hành
+Response: đúng là một gã côn đồ
+Message: cậu có dụng cụ làm ảo thuật mà, đúng không?
+Response: không phải là không có nhưng...tốt nhất không nên dùng nó thì hơn
+Message: thật không? hay quá cậu ạ!
+Response: tớ đã nói rồi mà.
+Message: tớ khổ lắm...
+Response: chuyện gì vậy?
+Message: xong chưa?
+Response: sắp xong!
+Message: cậu nói gì tớ chẳng hiểu.
+Response: là la lá la là la lá la
+Message: Hừ, năm nào nhận tiền lì xì tớ cũng có cùng một cảm giác. Sao mà ít quá thể.
+Response: cậu đừng đòi hỏi nhiều
+Message: thôi chết rồi, tớ phải làm sao đây, mèo ú?
+Response: đành chịu thôi chứ sao nữa. nhìn thấy cậu gặp nạn tớ đau lòng lắm, tốt nhất là tránh đi.
+Message: doraemon! cứu tớ với!!!
+Response: Nobita! Chỉ cho tớ tên gian tặc đang ở đâu?
+Message: Giờ này tớ ngủ thế nào được?
+Response: Cậu chả vừa ngáy khò khò là gì?
+Message: Ơ, sao lại gọi tớ dậy vào giữa đêm thế này?
+Response: Thế nên tớ mới bảo cậu ngủ từ trưa.
+Message: Khà khà... Thật tuyệt vời!
+Response: :)))))))))
+Message: Phòng của tớ đây ư!
+Response: Vừa tối vừa bẩn!
+Message: Thuốc đâu cho tớ đi!
+Response: Hay là thôi...
+Message: Sống thoải mái như thế mới sướng
+Response: Chẳng bị ai cằn nhằn cả!
+Message: Khỏi cần! Tớ muốn tự lo mọi việc mà không cần nhờ vả vào ai cả!
+Response: Cậu nghĩ được như vậy là tốt, nhưng mà, phải mất mấy chục năm cậu mới gom đủ số đũa để đóng bè đấy!
+Message: Tớ vừa nảy ra một ý rất hay!
+Response: Ý gì vậy? 
+Message: Sáng mai tớ có bài kiểm tra...
+Response: Mau mau về nhà ôn bài đi chứ còn gì nữa!
+Message: Thật không?
+Response: Có vấn đề gì băn khoăn, cậu cứ hỏi nó nhé!
+Message: làm gì có chuyện...
+Response: Cậu còn định lẩm bẩm đễn bao giờ nữa? Ngủ ngay đi!
+Message: Không, tớ xấu hổ lắm!
+Response: Không sao đâu, sẽ ổn cả thôi!
+Message: Cái gì đây?
+Response: Cậu sẽ biết ngay thôi!
+Message: Có vẻ như năm nay mình sẽ gặp nhiều may mắn.
+Response: Rất tiếc là không được như vậy!
+Message: Hãi quá đi mất...
+Response: Là tớ đây!
+Message: Vô lí quá! Chẳng lẽ...Mày chui từ đây ra?
+Response: Hỏi nhiều thế ai mà trả lời nổi!
+Message: Hơ...Ơ...
+Response: Ủa? Cái gì đây?
+Message: Bánh nếp!
+Response: Trông ngon nhỉ?
+Message: Này, hình như cậu cắm cho tớ sai vị trí rồi!
+Response: Không sao! Cắm chỗ nào chả được!
+Message: Thôi ngay cái trò chọc phá người khác đi nhớ!
+Response: Gì thì gì, tớ cũng phải ngăn cậu lại bằng mọi giá.
+Message: Hay là ta đi đường vòng vậy!
+Response: Ừ, thế này yên tâm hơn!
+Message: TỚ ỨC LẮM DORAEMON ƠI!
+Response: Dĩ nhiên là phải tức rồi.
+Message: Làm gì còn ai yếu hơn tớ chứ.
+Response: Kể cũng đúng...
+Message: Thật á?
+Response: Thật hay không cứ mang thử vô sẽ biết.
+Message: Đồ mèo ú vô tích sự!
+Response: Không được rồi!
+Message: Nghe cũng có lí.
+Response: Đừng chần chừ nữa!, Hành động vì tương lai của cậu đi!
+Message: Tớ không thích bắt nạt kẻ yếu hơn.
+Response: Ai yếu hơn ai cơ?
+Message: Để tớ yên!, Số phận của tớ sẽ do bàn tay tớ tự quyết định.
+Response: Cậu cứng đầu thật đấy.
+Message: Thôi khỏi, buồn cười chết được.
+Response: Tớ có trách nhiệm phải chăm lo cho cậu
+Message: MUỘN HỌC MẤT RỒI!!
+Response: Thầy đang đi về lớp.  
+Message: Tớ không muốn bị mắng đâu, nghỉ học còn hơn.
+Response: Nè, đợi đã!
+Message: Được thầy khen cũng là cậu giúp sức cả.
+Response: Đừng lo! Từ giờ chỉ cần nỗ lực thì cậu sẽ làm được thôi mà.
+Message: Tớ thèm được như nó!
+Response: Hừ! Chẳng có chút chí khí gì cả!
+Message: Tớ trông cậy cả vào cậu đấy...
+Response: Chẳng có gì là tớ không nào được cả!
+Message: Thế là tớ có thể an tâm, có thể ngủ ngon được rồi!
+Response: Chưa đâu! Cậu vẫn còn có việc phải làm đấy!
+Message: ĐI NHẶT MAU LÊN!
+Response: Không được!
+Message: Nói láo!
+Response: Để rồi tụi mình sẽ vạch mặt nó.
+Message: Nó ngồi trước gương nửa tiếng rồi!
+Response: Định giở trò gì thế không biết?
+Message: Ha ha... Đây chính là con bài tẩy!
+Response: Mọi người mà biết chuyện này thì Suneo không dám ra đường nữa!
+Message: Chắc cô ấy phải tuyệt vời lắm.
+Response: Ừ... Tớ cũng nghĩ thế.
+Message: Sao lúc đó bố không chụp lại vài kiểu ảnh nhỉ? Chán bố quá...
+Response: Đúng rồi! Bọn mình sẽ đi chụp ảnh cô ấy!
+Message: Bố mà nằm đây ngủ là thể nào cũng bị ông thầy phạt nữa...
+Response: Dùng nó là khỏi lo!
+Message: Đi đánh thức bố dậy thôi!
+Response: Bố đi đâu rồi nhỉ?, Chắc chắn là ở bờ sông!, Đúng chỗ này rồi.
+Message: Chẳng thấy bố lẫn cô gái đâu cả.
+Response: Mình ngồi đợi ở đây vậy.
+Message: Trời tối mịt rồi, sao chẳng thấy ai cả?
+Response: Ê, cậu đừng trèo linh tinh!
+Message: ỐI!
+Response: Tớ đã bảo mà không nghe.
+Message: Oái, tớ kì cọ nãy giờ vẫn chưa hết mùi hôi.
+Response: Để tớ khử mùi cho!
+Message: Tớ có bài tập nghiên cứu tự do.
+Response: Tớ chẳng hiểu gì cả, cậu nói nhanh đi!!
+Message: DORAEMON!!
+Response: Ôi trời đúng là ngày nào cũng chỉ toàn ngủ và ngủ
+Message: TỚ SỢ QUÁ MÈO Ú ƠI! PH...PHẢI LÀM SAO BÂY GIỜ?
+Response: xong chưa? 
+Message: sắp xong!
+Response: ...
+Message: Giờ này tớ ngủ thế nào được? 
+Response: Cậu chả vừa ngáy khò khò là gì?
+Message: Doraemon, cậu đừng bao giờ bỏ tớ nhé...
+Response: Tất nhiên rồi, nhiệm vụ của tớ là phải giúp cậu sống hạnh phúc mà! Chúng ta sẽ là bạn tốt của nhau suốt đời...
+Message: Tội nghiệp quá, nó phải nhờ đến sự giúp đỡ của máy móc mới có bạn mà chơi. Chẳng bù với tớ, đã có doraemon, người bạn tốt luôn ở bên cạnh... 
+Response: Còn tớ thì có cậu, Nobita!
+Message: Chán bố quá!
+Response: ừ, chán chết đi được!
+Message: Khổ thân bố! 
+Response: Tụi mình giúp bố đi!
+Message: Yếu ớt là bản tính của tớ, chắc chẳng chữa được đâu nhỉ?
+Response: Có thể chữa được bằng thuốc đấy, nhưng chỉ trong một chốc một lát.
+Message: Thuốc đâu cho tớ đi!
+Response: Hay là thôi...
+Message: Tớ vừa nảy ra một ý rất hay!
+Response: Ý gì vậy? 
+Message: Tớ sẽ nhờ cỗ máy thời gian đưa tới thế giới tương lai 3 năm nữa... và dẫn Nobita lúc đó đã là học sinh trung học về đây. Dù tớ có dốt đến mấy, nhưng khi đã trở thành học sinh trung học thì chắc chắn phải biết cách giải bài tập của tiểu học chứ!
+Response: Liệu có ổn không đấy?
+Message: Hình như càng lên lớp cao, tớ càng học dốt đi cậu nhỉ?
+Response: Chính vì thế mà cậu phải cố gắng lên. cậu hoàn toàn có thể thay đổi được tương lai nếu bắt đầu từ bây giờ, hiểu chưa?
+Message: Sáng mai tớ có bài kiểm tra...
+Response: Mau mau về nhà ôn bài đi chứ còn gì nữa!
+Message: Cậu bị sao thế?
+Response: Híc... tớ đang... bị cảm lạnh... Chỉ có thế mà cậu cũng gọi tớ đến đây! Cậu ỉ lại vào tớ nhiều quá đấy!
+Message: làm gì có chuyện...
+Response: Cậu còn định lẩm bẩm đễn bao giờ nữa? Ngủ ngay đi!
+Message: Vẫn chưa đến bình minh hả?
+Response: Còn chưa đến 12 giờ nữa mà. 
+Message: Gừ! Cậu mới là đồ đãng trí!
+Response: Hì hì, cả hai đứa đều thế mà! 
+Message: Ơ, trời nhập nhoạng tối kìa!
+Response: Thì chiều muộn rồi còn gì!
+Message: Tớ mượn thêm tý đã. Đang hay mà!
+Response: Đó không phải thứ để đem đi nghịch ngợm đâu!
+Message: Oái, chuyện gì vậy?
+Response: Đây này, cậu xem đi!
+Message: Tớ đâu có hứng thú đọc từ điển bách khoa.
+Response: Đây là cuốn từ điển của tương lai! Mở trang 1259 mà coi. 
+Message: Tớ đầu hàng.
+Response: Cậu không kiên nhẫn chút nào cả.
+Message: có thật không đấy
+Response: cậu làm sai rồi
+Message: ở đâu thế mèo ú
+Response: từ trong tivi chứ đâu
+Message: Làm thế nào bây giờ hả Doraemon? 
+Response: Ơ… tớ không biết…
+Message: mau lấy cái đó ra đi, Doraemon!
+Response: Cái đó là cái gì?
+Message: Chuyện là thế... giúp tớ với mèo ú …
+Response: cậu có đùa không đấy? 
+Message: nó...nó... ở dưới bếp! 
+Response: đúng là có cái gì thật! 
+Message: Cậu nói đúng!! Tớ bây giờ khỏe phi thường!
+Response: Tớ đã bảo mà
+Message: Tớ thấy "lóng" ruột quá!
+Response: "nóng" chứ không phải "lóng"!
+Message: Hay cậu cứ thử tìm xem, biết đâu lại có…
+Response: Đã bảo là không mà, sao cậu dai như đỉa thế!
+Message: Lên núi thích hơn, phải không MÈO Ú?
+Response: Tuyệt quá!!
+Message: Chả là bọn tớ đang bàn chuyện đi cắm trại ấy mà!
+Response: Hay quá! Cho tớ tham gia với!
+Message: Nhưng sao ở đây vẫn sáng trưng?
+Response: Thực ra xung quanh đã tối thui rồi...
+Message: Oái! Sao tự nhiên chỗ này sâu hoắm vậy?
+Response: Đây là đoạn cuối của thềm lục địa, có độ dốc rất lớn, nó kéo dài vài cây số xuống tận dưới đáy biển sâu.
+Message: Nơi này mà làm bài trượt tuyết thì còn gì bằng!
+Response: Đương nhiên rồi!
+Message: Đầu tớ căng ra như dây đàn rồi!
+Response: Tớ biết cậu vất vả khổ sở như thế nào...
+Message: Ừm!
+Response: Phù...Dỗ cho cậu học tốn công tốn sức quá...
+Message: Hè năm nay tớ đành chấp nhận ở nhà vậy, khỏi đi đâu nữa!
+Response: Ơ kìa...
+Message: Mặc kệ họ! Họ muốn đi đâu thì để họ đi!
+Response: Không đơn giản như cậu nghĩ đâu!
+Message: Cậu vác của nợ ấy về nhà làm gì?
+Response: Tớ không nỡ bỏ nó lại bãi rác...
+Message: DORAEMON!!! (khoa chân múa tay loạn xạ)
+Response: Cậu nói linh tinh cái gì thế?
+Message: Hừ, bảo bối của cậu chả có thứ nào ra hồn hết!
+Response: Tớ đã bảo trên đời này không có phép thuật mà!
+Message: Mọi chuyện chẳng đúng ý tớ tí nào!
+Response: Cậu thất vọng à?
+Message: Cuộc đời này chẳng có gì dễ dàng cả!
+Response: Đúng thế!
+Message: Hay ta trở về thế giới cũ đi thôi!
+Response: Ừ! Phải đấy!
+Message: Mau trở về thế giới cũ thôi!
+Response: Đã quá trễ...
+Message: Con ăn xong rồi ạ!
+Response: Con cũng xong rồi ạ!
+Message: Thì tớ đồng ý làm huề với cậu đấy!
+Response: Huề...thì huề!
+Message: Chuyện gì sẽ xảy ra tiếp theo đây...
+Response: Ủa, sao cậu không lo làm bài đi?

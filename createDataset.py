@@ -33,4 +33,4 @@ def getFacebookData():
     return responseDictionary
 
 dictData = getFacebookData()
-np.save('/home/q/Downloads/workPlaceBackUp/doraemonBot/conversationDictionary.npy',dictData)
+np.save('conversationDictionary.npy',dictData)
