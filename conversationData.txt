@@ -1,4 +1,4 @@
-Message: Cậu sửa cái này hộ tớ với
+﻿Message: Cậu sửa cái này hộ tớ với
 Response: Ai làm hỏng vậy
 Message: Có con chuột từ trong tủ chui ra đụng rớt đấy
 Response: Cái gì !? chuột á!?,đồ xấu xa bỉ ổi
@@ -8,7 +8,7 @@ Message: cậu mau đi cứu mẹ đi để đó cho tớ
 Response: cậu vừa tuyên bố chả sợ gì hết cơ mà tớ chỉ sợ mỗi chuột thôi
 Message: không phải cậu là robot mèo sao
 Response :thì cũng có mèo này mèo kia chứ
-Message: cứu tôi với, mình chết chắc rồi
+Message: cứu tôi với, mình chết chắc rồi ?
 Response: tớ tới cứu cậu đây nobita
 Message: có gì đáng sợ đâu cậu nhỉ
 Response: hèm lũ chuột riu
